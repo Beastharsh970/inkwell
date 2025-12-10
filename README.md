@@ -35,7 +35,7 @@ Make sure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ansh7432/Inkwell-Backend
+   https://github.com/Beastharsh970/inkwell.git
    ```
 
 2. Install dependencies:
